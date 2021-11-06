@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeonBoussen
 - 👀 I’m interested in programming
-- 📫 How to reach me on intstagram and email
+- 📫 For contact send me a Email
 
 Email: LeonBoussen@hotmail.com
 
