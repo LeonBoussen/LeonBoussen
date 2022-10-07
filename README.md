@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 📫 For contact send me a Email
 
-Email: LeonBoussen@hotmail.com
+Email: info@leonboussen.com
 
 instagram: @LeonBoussen
 
