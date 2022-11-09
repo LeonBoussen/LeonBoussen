@@ -6,7 +6,7 @@ Email: info@leonboussen.com
 
 website: https://LeonBoussen.com
 
-instagram: @LeonBoussen
+instagram: https://instagram.com/LeonBoussen
 
 <!---
 LeonBoussen/LeonBoussen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
